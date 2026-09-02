@@ -182,10 +182,6 @@ export default function Home() {
               <img src="/manus-storage/sprinttranz-fleet_d77c255d.png" alt="Vozidlá a odťahová technika SprintTranz" />
               <figcaption><Truck size={17} /> Reálna technika v teréne</figcaption>
             </figure>
-            <figure className="promo-photo archive-card">
-              <img src="/manus-storage/sprinttranz-promo_2ac0ca61.png" alt="Propagačný materiál SprintTranz o ekologickej likvidácii vozidiel" />
-              <figcaption>Archívny materiál / EKO servis</figcaption>
-            </figure>
           </div>
           <div className="about-copy">
             <p className="eyebrow eyebrow-dark"><span /> SPRINTTRANZ V SKRATKE</p>
